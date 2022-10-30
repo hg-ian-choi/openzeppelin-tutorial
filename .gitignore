@@ -1,5 +1,5 @@
 ## Hardhat
-hardhat/node_modules
+hardhat/ERC20/node_modules
 
 ## Truffle
-truffle/node_modules
+truffle/ERC20/node_modules
